@@ -1,0 +1,32 @@
+*{
+  
+}
+
+.todo {
+    display: flex;
+    background-color: red;
+    text-align: center;
+    padding-left: 300px;
+    padding-right : 300px;
+    padding-bottom: 200px;
+    flex: 50%;
+    margin-right: 300px;
+}
+.done {
+    display: flex;
+    background-color: pink;
+    text-align: center;
+    padding-left: 300px;
+    padding-right : 300px;
+    flex: 50%;
+}
+.submit {
+    display: flex;
+    text-align: center;
+
+}
+.table {
+    display: flex;
+    justify-content: space-around;
+
+}
